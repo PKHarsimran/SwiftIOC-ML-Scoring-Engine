@@ -1,1 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+data/processed/
+data/labeled/
+models/
+reports/
+
+.idea/
+.vscode/
+.DS_Store
